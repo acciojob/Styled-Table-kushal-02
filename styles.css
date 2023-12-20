@@ -1,1 +1,13 @@
-/* your code */
+table , thead , tr {
+	background-color : lightblue;
+	border : 1px solid black;
+	width : 100%;
+	
+}
+	
+td {
+		padding : 10px;
+}
+td {
+		text-align : center;
+}
